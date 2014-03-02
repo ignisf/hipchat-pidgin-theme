@@ -1,4 +1,3 @@
-require 'json'
 require 'open-uri'
 require 'fileutils'
 require_relative 'lib/emoticon'

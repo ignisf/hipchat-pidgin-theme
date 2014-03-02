@@ -1,3 +1,5 @@
+require 'json'
+
 module HipChat
   module Helpers
     module_function
