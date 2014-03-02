@@ -6,7 +6,7 @@ module HipChat
     end
 
     def emoticons_from(emoticon_file)
-      emoticon_list = load_emoticon_file emoticon_file
+      emoticon_list = load_emoticon_file(emoticon_file).sort_by { |emoticon| emoticon["shortcut"] }
       emoticon_list.group_by { |entry| entry['image'] }.map do |image, emotions|
         Emoticon.new image: image, shortcuts: emotions.map { |emoticon| emoticon['shortcut'] }
       end
