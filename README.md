@@ -11,6 +11,13 @@ Usage
 Just run `rake` and drag and drop the `HipChat.tar.gz` file on the "Smiley
 Theme" drop-down in Tools -> Preferences -> Themes.
 
+Downloads
+---------
+
+If you don't want to generate the theme file yourself, you can download it from
+[the downloads
+section](https://bitbucket.org/ignisf/hipchat-pidgin-theme/downloads).
+
 The MIT License
 ---------------
 
