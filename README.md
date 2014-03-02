@@ -3,7 +3,7 @@ HipChat Smiley Theme for Pidgin
 
 Just a small project that generates a HipChat smiley theme for Pidgin. It relies
 heavily on the emoticon list provided by
-https://github.com/henrik/hipchat-emoticons.
+[henrik/hipchat-emoticons](https://github.com/henrik/hipchat-emoticons).
 
 Usage
 -----
