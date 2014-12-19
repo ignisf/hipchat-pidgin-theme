@@ -1,16 +1,16 @@
 HipChat Smiley Theme for Pidgin
 ===============================
 
-Just a small project that generates a HipChat smiley theme for Pidgin. It relies
-heavily on the emoticon list provided by
-[henrik/hipchat-emoticons](https://github.com/henrik/hipchat-emoticons).
+Just a small project that generates a HipChat smiley theme for Pidgin. It
+fetches the list of emoticons from HipChat's API, downloads the images and
+packages them.
 
 ![Screenshot](https://bytebucket.org/ignisf/hipchat-pidgin-theme/raw/de636e0db581bfdddbfb9ed879f08d95b49805b3/screenshot.png)
 
 Usage
 -----
 
-Just run `rake` and drag and drop the `HipChat.tar.gz` file on the "Smiley
+Just run `rake` and drag and drop the `HipChat-<DateTime>.tar.gz` file on the "Smiley
 Theme" drop-down in Tools -> Preferences -> Themes.
 
 Downloads
