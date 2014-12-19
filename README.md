@@ -5,7 +5,7 @@ Just a small project that generates a HipChat smiley theme for Pidgin. It
 fetches the list of emoticons from HipChat's API, downloads the images and
 packages them.
 
-![Screenshot](https://bytebucket.org/ignisf/hipchat-pidgin-theme/raw/de636e0db581bfdddbfb9ed879f08d95b49805b3/screenshot.png)
+![Screenshot](https://bytebucket.org/ignisf/hipchat-pidgin-theme/raw/bc13106d0a85e580dc825016bb249e789a490676/screenshot.png)
 
 Usage
 -----
