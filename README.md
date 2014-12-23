@@ -10,7 +10,10 @@ packages them.
 Usage
 -----
 
-Just run `rake` and drag and drop the `HipChat-<DateTime>.tar.gz` file on the "Smiley
+Acquire an API token from https://auctionet.hipchat.com/account/api and store it
+in ~/.hipchat-token
+
+Run `rake` and drag and drop the `HipChat-<DateTime>.tar.gz` file on the "Smiley
 Theme" drop-down in Tools -> Preferences -> Themes.
 
 Downloads
